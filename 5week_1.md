@@ -336,4 +336,6 @@ $ bundle
   end
   ```
 
-  
+```shell
+$ rails db:seed
+```
